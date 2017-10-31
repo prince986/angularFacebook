@@ -1,0 +1,9 @@
+.log{
+  float: right;
+  margin-top: 12px;
+  margin-right:5% ;
+  align-content: center;
+}
+.lognew a{
+text-decoration: none;
+}
